@@ -17,3 +17,5 @@ We can easily use a hierarchical structure in VHDL to define a 2x1 MUX on its ow
 ![schematic](./img/schematic.png)
 
 ![waveform](./img/waveforms.png)
+
+From the testbench: I0 = 0001, I1 = 0010, I2 = 0100, I3 = 1000
