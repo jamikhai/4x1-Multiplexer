@@ -14,5 +14,6 @@ Overall we need three 2x1 MUX to create a 4x1 MUX. The first layer of MUXs will 
 
 We can easily use a hierarchical structure in VHDL to define a 2x1 MUX on its own and then instantiate the component in the architechture of the 4x1 MUX. All of the behaviour for the 4x1 system is already defined and just needs to be correctly connected using the port mapping. This creates a simple and clean design that is easy to edit and expand on. I found the system much easier to implement with a schematic in mind when connecting the 2x1 MUXs together, shown below.
 
-![schematic](http://2.bp.blogspot.com/-zo8LsEYSjHI/U41sQ9iE_QI/AAAAAAAAATY/mhYs0opzEWA/s1600/mux.JPG)
+![schematic](./img/schematic.png)
 
+![waveform](./img/waveform.png)
