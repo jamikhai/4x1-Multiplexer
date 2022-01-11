@@ -16,4 +16,4 @@ We can easily use a hierarchical structure in VHDL to define a 2x1 MUX on its ow
 
 ![schematic](./img/schematic.png)
 
-![waveform](./img/waveform.png)
+![waveform](./img/waveforms.png)
